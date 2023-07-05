@@ -1,5 +1,5 @@
 # Stock-Market-Analysis-with-prediction-using-LSTM
-The "Stock Market Analysis with Prediction Using LSTM" project is a GitHub repository that offers a comprehensive solution for analyzing and predicting stock market trends using the Long Short-Term Memory (LSTM) algorithm. By leveraging historical stock price data, this project aims to provide insights and predictions to assist investors and traders in making informed decisions.
+The "Stock Market Analysis with Prediction Using LSTM" project is a GitHub repository that offers a comprehensive solution for analyzing and predicting stock market trends using the Long Short-Term Memory (LSTM) algorithm. The historical stock price data is borrowed from Yahoo Finance. Yahoo Finance is a widely recognized and trusted platform that provides comprehensive financial information, including historical stock prices, for a vast range of publicly traded companies.
 
 The repository includes several key components and features to facilitate the analysis and prediction process. These components are:
 
